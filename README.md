@@ -1,0 +1,2 @@
+# cdnfornit
+jsdelivr cdn
